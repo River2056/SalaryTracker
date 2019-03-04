@@ -1,0 +1,9 @@
+﻿rent : 5500
+loan : 2100
+phone : 1500
+eDating : 1000
+computerClass : 4000
+AppleMusic : 150
+iCloud : 100
+dailyExp : 8000
+electricity : 800
